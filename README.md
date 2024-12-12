@@ -59,7 +59,7 @@ Skills: Data collection, cleaning, and visualization using SQL, R, and Tableau.
 **GitHub**: [PepeLavadoRalo](https://github.com/PepeLavadoRalo)  
 **Email**: pepelavadoralo00@gmail.com  
 **Phone**: +34 654 99 42 41  
-**LinkedIn**: https://www.linkedin.com/in/salvador-jos%C3%A9-lavado-ralo-0825242a5/
+**LinkedIn**: [Salvador José Lavado Ralo](https://www.linkedin.com/in/salvador-jos%C3%A9-lavado-ralo-0825242a5/)
 
 
 <!---
