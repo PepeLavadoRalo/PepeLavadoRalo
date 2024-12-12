@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
   - Email: pepelavadoralo00@gmail.com  
   - Phone: +34 654 99 42 41  
-  - Location: Badajoz / Madrid, Spain (Open to remote work)  
+
 
 ---
 
